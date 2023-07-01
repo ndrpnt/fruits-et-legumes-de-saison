@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700101
+DTEND;VALUE=DATE:19700201
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Lentille</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Citron</li><li>Clémentine</li><li>Kaki</li><li>Kiwi</li><li>Mandarine</li><li>Orange</li><li>Pamplemousse</li><li>Physalis</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Betterave</li><li>Carotte</li><li>Chou</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou rouge</li><li>Courge</li><li>Crosne</li><li>Céleri-branche</li><li>Céleri-rave</li><li>Endive</li><li>Frisée</li><li>Mâche</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700201
+DTEND;VALUE=DATE:19700301
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Lentille</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Citron</li><li>Clémentine</li><li>Kiwi</li><li>Mandarine</li><li>Orange</li><li>Pamplemousse</li><li>Physalis</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Betterave</li><li>Carotte</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou rouge</li><li>Crosne</li><li>Céleri-rave</li><li>Endive</li><li>Frisée</li><li>Mâche</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Radis</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700301
+DTEND;VALUE=DATE:19700401
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Lentille</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Citron</li><li>Kiwi</li><li>Orange</li><li>Pamplemousse</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Asperge</li><li>Betterave</li><li>Blette</li><li>Carotte</li><li>Chou</li><li>Chou de Bruxelles</li><li>Chou-fleur</li><li>Crosne</li><li>Céleri-rave</li><li>Endive</li><li>Frisée</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Radis</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700401
+DTEND;VALUE=DATE:19700501
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Citron</li><li>Pamplemousse</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Asperge</li><li>Betterave</li><li>Blette</li><li>Carotte</li><li>Chou-fleur</li><li>Concombre</li><li>Endive</li><li>Frisée</li><li>Laitue</li><li>Navet</li><li>Oignon</li><li>Petit pois</li><li>Poireau</li><li>Pomme de terre primeur</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700501
+DTEND;VALUE=DATE:19700601
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Cerise</li><li>Fraise</li><li>Pamplemousse</li><li>Rhubarbe</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Asperge</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Carotte</li><li>Chou-fleur</li><li>Concombre</li><li>Courgette</li><li>Laitue</li><li>Navet</li><li>Oignon</li><li>Petit pois</li><li>Pomme de terre primeur</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700601
+DTEND;VALUE=DATE:19700701
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Avoine d'hiver</li><li>Avoine de printemps</li><li>Orge d'hiver</li><li>Pois</li><li>Seigle</li></ul><h2>Fruits</h2><ul><li>Abricot</li><li>Amande sèche</li><li>Brugnon</li><li>Cassis</li><li>Cerise</li><li>Citron</li><li>Fraise</li><li>Framboise</li><li>Groseille</li><li>Melon</li><li>Pamplemousse</li><li>Pastèque</li><li>Pomme</li><li>Prune</li><li>Pêche</li><li>Rhubarbe</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Asperge</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Brocoli</li><li>Carotte</li><li>Chou romanesco</li><li>Concombre</li><li>Courgette</li><li>Fenouil</li><li>Haricot vert</li><li>Laitue</li><li>Navet</li><li>Oignon</li><li>Petit pois</li><li>Poivron</li><li>Pomme de terre primeur</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700701
+DTEND;VALUE=DATE:19700801
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Avoine d'hiver</li><li>Avoine de printemps</li><li>Blé dur d'hiver et de printemps</li><li>Blé tendre d'hiver et de printemps</li><li>Féveroles et fèves</li><li>Haricot blanc</li><li>Maïs</li><li>Orge d'hiver</li><li>Orge de printemps</li><li>Pois</li><li>Seigle</li></ul><h2>Fruits</h2><ul><li>Abricot</li><li>Amande fraiche</li><li>Amande sèche</li><li>Brugnon</li><li>Cassis</li><li>Cerise</li><li>Figue</li><li>Fraise</li><li>Framboise</li><li>Groseille</li><li>Melon</li><li>Myrtille</li><li>Nectarine</li><li>Pastèque</li><li>Poire</li><li>Prune</li><li>Pêche</li><li>Rhubarbe</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Asperge</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Brocoli</li><li>Carotte</li><li>Chou romanesco</li><li>Concombre</li><li>Courgette</li><li>Céleri-branche</li><li>Fenouil</li><li>Haricot vert</li><li>Laitue</li><li>Oignon</li><li>Petit pois</li><li>Poivron</li><li>Pomme de terre primeur</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700801
+DTEND;VALUE=DATE:19700901
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Avoine d'hiver</li><li>Avoine de printemps</li><li>Blé dur d'hiver et de printemps</li><li>Blé tendre d'hiver et de printemps</li><li>Féveroles et fèves</li><li>Haricot blanc</li><li>Maïs</li><li>Orge d'hiver</li><li>Orge de printemps</li><li>Pois</li><li>Quinoa</li><li>Seigle</li></ul><h2>Fruits</h2><ul><li>Abricot</li><li>Amande fraiche</li><li>Amande sèche</li><li>Baie de goji</li><li>Brugnon</li><li>Cassis</li><li>Figue</li><li>Fraise</li><li>Framboise</li><li>Groseille</li><li>Melon</li><li>Mirabelle</li><li>Myrtille</li><li>Mûre</li><li>Nectarine</li><li>Noisette</li><li>Pastèque</li><li>Poire</li><li>Pomme</li><li>Prune</li><li>Pruneau</li><li>Pêche</li><li>Raisin</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Brocoli</li><li>Carotte</li><li>Chou blanc</li><li>Chou romanesco</li><li>Chou rouge</li><li>Concombre</li><li>Courge</li><li>Courgette</li><li>Céleri-branche</li><li>Fenouil</li><li>Frisée</li><li>Haricot vert</li><li>Laitue</li><li>Oignon</li><li>Poivron</li><li>Pomme de terre primeur</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19700901
+DTEND;VALUE=DATE:19701001
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Haricot blanc</li><li>Maïs</li><li>Quinoa</li><li>Riz</li><li>Sarrasin</li><li>Tournesol</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Baie de goji</li><li>Coing</li><li>Figue</li><li>Melon</li><li>Mirabelle</li><li>Myrtille</li><li>Mûre</li><li>Noisette</li><li>Noix</li><li>Pastèque</li><li>Poire</li><li>Pomme</li><li>Prune</li><li>Pruneau</li><li>Pêche</li><li>Raisin</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Artichaut</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Brocoli</li><li>Carotte</li><li>Chou</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou romanesco</li><li>Chou rouge</li><li>Chou-fleur</li><li>Concombre</li><li>Courge</li><li>Courgette</li><li>Céleri-branche</li><li>Fenouil</li><li>Frisée</li><li>Haricot vert</li><li>Laitue</li><li>Oignon</li><li>Panais</li><li>Patate douce</li><li>Poireau</li><li>Poivron</li><li>Pomme de terre de conservation</li><li>Potiron</li><li>Radis</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19701001
+DTEND;VALUE=DATE:19701101
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Haricot blanc</li><li>Maïs</li><li>Quinoa</li><li>Riz</li><li>Sarrasin</li><li>Soja</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Baie de goji</li><li>Châtaigne</li><li>Citron</li><li>Coing</li><li>Figue</li><li>Framboise</li><li>Kaki</li><li>Myrtille</li><li>Noisette</li><li>Noix</li><li>Physalis</li><li>Poire</li><li>Pomme</li><li>Raisin</li><li>Tomate</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Aubergine</li><li>Betterave</li><li>Blette</li><li>Brocoli</li><li>Carotte</li><li>Chou</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou rouge</li><li>Chou-fleur</li><li>Concombre</li><li>Courge</li><li>Courgette</li><li>Céleri-branche</li><li>Céleri-rave</li><li>Echalote</li><li>Endive</li><li>Fenouil</li><li>Frisée</li><li>Haricot vert</li><li>Laitue</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Patate douce</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Potiron</li><li>Radis</li><li>Rutabaga</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19701101
+DTEND;VALUE=DATE:19701201
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Lentille</li><li>Maïs</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Châtaigne</li><li>Citron</li><li>Clémentine</li><li>Coing</li><li>Kaki</li><li>Kiwi</li><li>Mandarine</li><li>Orange</li><li>Physalis</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Betterave</li><li>Brocoli</li><li>Cardon</li><li>Carotte</li><li>Chou</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou rouge</li><li>Chou-fleur</li><li>Citrouille</li><li>Courge</li><li>Crosne</li><li>Céleri-branche</li><li>Céleri-rave</li><li>Echalote</li><li>Endive</li><li>Fenouil</li><li>Frisée</li><li>Mâche</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Potiron</li><li>Radis</li><li>Rutabaga</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19701201
+DTEND;VALUE=DATE:19700101
+RRULE:FREQ=YEARLY
+SUMMARY:Fruits & Légumes de saison
+DESCRIPTION:<h2>Céréales & légumineuses</h2><ul><li>Avoine d'hiver</li><li>Avoine de printemps</li><li>Blé dur d'hiver et de printemps</li><li>Blé tendre d'hiver et de printemps</li><li>Féveroles et fèves</li><li>Lentille</li><li>Orge d'hiver</li><li>Orge de printemps</li><li>Pois</li><li>Seigle</li></ul><h2>Fruits</h2><ul><li>Amande sèche</li><li>Châtaigne</li><li>Citron</li><li>Clémentine</li><li>Kaki</li><li>Kiwi</li><li>Mandarine</li><li>Orange</li><li>Physalis</li><li>Poire</li><li>Pomme</li></ul><h2>Légumes</h2><ul><li>Ail</li><li>Betterave</li><li>Carotte</li><li>Chou</li><li>Chou blanc</li><li>Chou de Bruxelles</li><li>Chou frisé</li><li>Chou rouge</li><li>Courge</li><li>Crosne</li><li>Céleri-branche</li><li>Céleri-rave</li><li>Echalote</li><li>Endive</li><li>Frisée</li><li>Mâche</li><li>Navet</li><li>Oignon</li><li>Panais</li><li>Poireau</li><li>Pomme de terre de conservation</li><li>Potiron</li><li>Radis</li><li>Rutabaga</li><li>Salsifi</li><li>Topinambour</li><li>Épinard</li></ul><p>D'après <a href="https://www.greenpeace.fr/guetteur/calendrier">Greenpeace France</a>.</p>
+END:VEVENT
+END:VCALENDAR
